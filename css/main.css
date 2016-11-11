@@ -4,6 +4,8 @@ html {
 
 td {
   vertical-align: top;
+  height: 188px;
+  width: 188px;
 }
 
 th, td {
